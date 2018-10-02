@@ -21,6 +21,6 @@
     "webpack": "^3.12.0"
   },
   "bin": {
-    "renv": "./renv.sh"
+    "renv": "./bin/renv.sh"
   }
 }
