@@ -1,1 +1,1 @@
-./node_modules/webpack-cli/bin/cli.js -w
+npm bin webpack -w
